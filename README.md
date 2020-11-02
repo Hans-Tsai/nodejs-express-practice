@@ -1,4 +1,5 @@
-# Node.js + Express.js - Hans-Tsai own practice refered to the book which is call 'Web Development with Node and Express: Leveraging the JavaScript Stack' and written by Ethan Brown.
+# Node.js + Express.js - Hans-Tsai own practice 
+## (Refered to the book which is call 'Web Development with Node and Express: Leveraging the JavaScript Stack' and written by Ethan Brown.)
 # Examples - Web Development with Node and Express, 2nd Edition
 
 *WORK IN PROGRESS*
