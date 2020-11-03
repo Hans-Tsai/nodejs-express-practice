@@ -1,4 +1,18 @@
-const fortuneCookies = [
+// const fortuneCookies = [
+//   "Conquer your fears or they will conquer you.",
+//   "Rivers need springs.",
+//   "Do not fear what you don't know.",
+//   "You will have a pleasant surprise.",
+//   "Whenever possible, keep it simple.",
+// ]
+
+// exports.getFortune = () => {
+//   const idx = Math.floor(Math.random()*fortuneCookies.length)
+//   return fortuneCookies[idx]
+// }
+
+
+const fortuneCookies =[
   "Conquer your fears or they will conquer you.",
   "Rivers need springs.",
   "Do not fear what you don't know.",
@@ -7,6 +21,6 @@ const fortuneCookies = [
 ]
 
 exports.getFortune = () => {
-  const idx = Math.floor(Math.random()*fortuneCookies.length)
-  return fortuneCookies[idx]
+  const idx = Math.floor(Math.random()*fortuneCookies.length);
+  return fortuneCookies[idx];
 }
