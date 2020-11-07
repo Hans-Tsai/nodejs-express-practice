@@ -1,5 +1,7 @@
 # Node.js + Express.js - Hans-Tsai own practice 
 ### (Refered to the book which is called 'Web Development with Node and Express: Leveraging the JavaScript Stack' and written by Ethan Brown.)
+[可參考作者書中範例的原始碼repository](<https://github.com/EthanRBrown/web-development-with-node-and-express-2e>)<br>
+
 # Examples - Web Development with Node and Express, 2nd Edition
 
 *WORK IN PROGRESS*
