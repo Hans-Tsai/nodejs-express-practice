@@ -95,7 +95,7 @@ typings/
 .DS_Store
 
 # Credentials files
-credentials.*
+# credentials.*     // 為了練習用,在ch09/ 裡面新增了 .credentials.development.json 檔案
 !credentials.*.EXAMPLE
 
 .vscode
