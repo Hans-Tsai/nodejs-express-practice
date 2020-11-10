@@ -31,6 +31,7 @@
     .addEventListener('submit', evt => {
       evt.preventDefault()
       const form = evt.target
+      // 將javascript value轉換成 json object的形式
       const body = JSON.stringify({
         _csrf: form.elements._csrf.value,
         name: form.elements.name.value,
