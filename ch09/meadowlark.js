@@ -4,7 +4,7 @@ const bodyParser = require('body-parser')
 const cookieParser = require('cookie-parser')
 const expressSession = require('express-session')
 
-const credentials = require('./credentials')
+const credentials = require('./.credentials.development.json')  // 要記得修改為專案資料夾內的cookie secret檔案 (例如: .credentials.development.json 檔案)
 const handlers = require('./lib/handlers')
 const weatherMiddlware = require('./lib/middleware/weather')
 const flashMiddleware = require('./lib/middleware/flash')
