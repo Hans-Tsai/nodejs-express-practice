@@ -23,6 +23,11 @@ app.get('*', (req, res) => {
   res.send('online')
 });
 
+app.use((err, req, res, next) => {
+  console.error(err.message, err.stack)
+  app.status(500).render('500')
+});
+
 process.on('uncaughtException', err => {
   console.error('UNCAUGHT EXCEPTION\n', err.stack);
   // do any cleanup you need to do here...close 
