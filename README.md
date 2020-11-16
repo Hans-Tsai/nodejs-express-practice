@@ -33,3 +33,8 @@ The [Chapter 5 Example](ch05/README.md) demonstrates unit testing with Jest, int
 ### Chapter 6
 
 The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate various useful features of Express, such as rendering views, using cookies and sessions, processing forms, and providing an API.
+
+
+### Chapter 13
+[AWS Getting Started in Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-started-nodejs.html)<br>
+[Azure for Javascript and Node.js Developers](https://docs.microsoft.com/zh-tw/azure/developer/javascript/)<br>
