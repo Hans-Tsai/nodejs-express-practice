@@ -36,5 +36,7 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 
 
 ### Chapter 13
-[AWS Getting Started in Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-started-nodejs.html)<br>
-[Azure for Javascript and Node.js Developers](https://docs.microsoft.com/zh-tw/azure/developer/javascript/)<br>
+- [AWS Getting Started in Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-started-nodejs.html)<br>
+- [適用於 Node.js 中 JavaScript 的 AWS 開發套件](https://aws.amazon.com/tw/sdk-for-node-js/)<br>
+- [Azure for Javascript and Node.js Developers](https://docs.microsoft.com/zh-tw/azure/developer/javascript/)<br>
+- [Microsoft Azure Storage SDK for Node.js and JavaScript for Browsers --- on GitHub repo](https://github.com/Azure/azure-storage-node)<br>
