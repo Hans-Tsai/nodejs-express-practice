@@ -1,4 +1,4 @@
-const credentials = require('./credentials')
+const credentials = require('./.credentials.development.json')
 
 const { Client } = require('pg')
 const { connectionString } = credentials.postgres[process.env.NODE_ENV || 'development']

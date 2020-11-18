@@ -40,3 +40,4 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 - [適用於 Node.js 中 JavaScript 的 AWS 開發套件](https://aws.amazon.com/tw/sdk-for-node-js/)<br>
 - [Azure for Javascript and Node.js Developers](https://docs.microsoft.com/zh-tw/azure/developer/javascript/)<br>
 - [Microsoft Azure Storage SDK for Node.js and JavaScript for Browsers --- on GitHub repo](https://github.com/Azure/azure-storage-node)<br>
+- [PostgreSQL ON CONFLICT clause](https://www.postgresql.org/docs/current/sql-insert.html#SQL-ON-CONFLICT)<br>
