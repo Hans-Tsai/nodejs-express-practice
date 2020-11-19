@@ -9,7 +9,7 @@ const RedisStore = require('connect-redis')(expressSession)
 const handlers = require('./lib/handlers')
 const weatherMiddlware = require('./lib/middleware/weather')
 
-const credentials = require('./credentials')
+const credentials = require('./.credentials.development.json')
 
 const app = express()
 
@@ -36,6 +36,7 @@ app.use(expressSession({
   secret: credentials.cookieSecret,
   store: new RedisStore({
     url: credentials.redis[app.get('env')].url,
+    logErrors: true,
   }),
 }))
 
