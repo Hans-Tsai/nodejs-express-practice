@@ -29,4 +29,4 @@ app.get('/staff', (req, res) => {
 app.get('*', (req, res) => res.send('Check out the "<a href="/staff">staff directory</a>".'))
 
 const port = process.env.PORT || 3000
-app.listen(port, () => console.log( `\nnavigate to http://localhost:${port}/staff`))
+app.listen(port, () => console.log(`\nnavigate to http://localhost:${port}/staff`))
