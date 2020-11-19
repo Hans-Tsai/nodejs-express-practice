@@ -32,4 +32,4 @@ app.use(async (req, res, next) => {
 })
 
 const port = process.env.PORT || 3000
-app.listen(port, () => console.log( `\nnavigate to http://localhost:${port}/staff`))
+app.listen(port, () => console.log( `\nnavigate to http://localhost:${port}/05-staff`))
