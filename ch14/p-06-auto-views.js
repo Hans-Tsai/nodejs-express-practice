@@ -19,15 +19,14 @@ const fileExists = promisify(fs.exists);
 
 app.use(async (req, res, next) => {
   const path = req.path.toLowerCase()
-  // check cache; if it's there, render the view
+  // 檢查快取,如果它在哪裡,算繪view
   if(autoViews[path]) return res.render(autoViews[path])
-  // if it's not in the cache, see if there's
-  // a .handlebars file that matches
+  // 如果它沒有在快取,看看有沒有一個相符的(.handlebars)的檔案
   if(await fileExists(__dirname + '/views' + path + '.handlebars')) {
     autoViews[path] = path.replace(/^\//, '')
     return res.render(autoViews[path])
   }
-  // no view found; pass on to 404 handler
+  // 找到view,交給404處理式
   next()
 });
 
