@@ -43,6 +43,11 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 - [PostgreSQL ON CONFLICT clause](https://www.postgresql.org/docs/current/sql-insert.html#SQL-ON-CONFLICT)<br>
 
 ### Chapter 18
-- [OpenSSL | Cryptography and SSL/TLS Toolkit](https://www.openssl.org)<br>
-- [Self-Signed Certificate Generator | 提供免費的自行簽署簽證](https://www.selfsignedcertificate.com)<br>
-- [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org)<br>
+- SSL相關
+  + [OpenSSL | Cryptography and SSL/TLS Toolkit](https://www.openssl.org)<br>
+  + [Self-Signed Certificate Generator | 提供免費的自行簽署簽證](https://www.selfsignedcertificate.com)<br>
+  + [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org)<br>
+- 密碼管理服務
+  + [1Password](https://1password.com/zh-tw/)<br>
+  + [Bitwarden](https://bitwarden.com/)<br>
+  + [LastPass](https://www.lastpass.com/)<br>
