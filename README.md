@@ -44,14 +44,16 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 
 ### Chapter 18-19
 - SSL相關
-  + [OpenSSL | Cryptography and SSL/TLS Toolkit](https://www.openssl.org)<br>
-  + [Self-Signed Certificate Generator | 提供免費的自行簽署簽證](https://www.selfsignedcertificate.com)<br>
-  + [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org)<br>
+  + [OpenSSL | Cryptography and SSL/TLS Toolkit](https://www.openssl.org)
+  + [Self-Signed Certificate Generator | 提供免費的自行簽署簽證](https://www.selfsignedcertificate.com)
+  + [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org)
 - 密碼管理服務
-  + [1Password](https://1password.com/zh-tw/)<br>
-  + [Bitwarden](https://bitwarden.com/)<br>
-  + [LastPass](https://www.lastpass.com/)<br>
+  + [1Password](https://1password.com/zh-tw/)
+  + [Bitwarden](https://bitwarden.com/)
+  + [LastPass](https://www.lastpass.com/)
 - 關於用戶的身份驗證的package
-  + [Passport.js | an authentication middleware for Node.js](http://www.passportjs.org/docs/)<br>
+  + [Passport.js | an authentication middleware for Node.js](http://www.passportjs.org/docs/)
+    - [passport-facebook](https://www.npmjs.com/package/passport-facebook)
+    - [passport-google-oauth20](https://www.npmjs.com/package/passport-google-oauth20)
   + [Lockit | an Express authentication solution](https://mircozeiss.com/lockit-an-express-authentication-solution)<br>
   + [Auth0 | Secure access for everyone. But not just anyone.](https://auth0.com/)<br>
