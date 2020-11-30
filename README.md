@@ -42,7 +42,7 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 - [Microsoft Azure Storage SDK for Node.js and JavaScript for Browsers --- on GitHub repo](https://github.com/Azure/azure-storage-node)<br>
 - [PostgreSQL ON CONFLICT clause](https://www.postgresql.org/docs/current/sql-insert.html#SQL-ON-CONFLICT)<br>
 
-### Chapter 18
+### Chapter 18-19
 - SSL相關
   + [OpenSSL | Cryptography and SSL/TLS Toolkit](https://www.openssl.org)<br>
   + [Self-Signed Certificate Generator | 提供免費的自行簽署簽證](https://www.selfsignedcertificate.com)<br>
@@ -51,3 +51,5 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
   + [1Password](https://1password.com/zh-tw/)<br>
   + [Bitwarden](https://bitwarden.com/)<br>
   + [LastPass](https://www.lastpass.com/)<br>
+- 關於用戶的身份驗證的package
+  + [Passport](http://www.passportjs.org/docs/)<br> 
