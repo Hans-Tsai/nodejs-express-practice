@@ -52,4 +52,6 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
   + [Bitwarden](https://bitwarden.com/)<br>
   + [LastPass](https://www.lastpass.com/)<br>
 - 關於用戶的身份驗證的package
-  + [Passport](http://www.passportjs.org/docs/)<br> 
+  + [Passport.js | an authentication middleware for Node.js](http://www.passportjs.org/docs/)<br>
+  + [Lockit | an Express authentication solution](https://mircozeiss.com/lockit-an-express-authentication-solution)<br>
+  + [Auth0 | Secure access for everyone. But not just anyone.](https://auth0.com/)<br>
