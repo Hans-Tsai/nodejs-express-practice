@@ -57,3 +57,7 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
     - [passport-google-oauth20](https://www.npmjs.com/package/passport-google-oauth20)
   + [Lockit | an Express authentication solution](https://mircozeiss.com/lockit-an-express-authentication-solution)<br>
   + [Auth0 | Secure access for everyone. But not just anyone.](https://auth0.com/)<br>
+
+### Chapter 20
+- Debug相關
+  + [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
