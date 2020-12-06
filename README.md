@@ -81,3 +81,8 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
   + [CircleCI](https://circleci.com/)
   + [Jenkins](https://www.jenkins.io/)
   + [Semaphore](https://semaphoreci.com/)
+
+# Chapter 22
+- 例行性QA檢查服務
+  + [Google Webmaster Tools](https://developers.google.com/search) 
+  + [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) 
