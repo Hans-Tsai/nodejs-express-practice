@@ -67,3 +67,5 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
   + [Amazon Route 53](https://aws.amazon.com/tw/route53/)
   + [Name.com](https://www.name.com/en)
   + [Namecheap.com](https://www.namecheap.com/)
+- 給開發者用的雲端服務(要付費)
+  + [DigitalOcean](https://www.digitalocean.com/)
