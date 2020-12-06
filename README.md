@@ -69,3 +69,7 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
   + [Namecheap.com](https://www.namecheap.com/)
 - 給開發者用的雲端服務(要付費)
   + [DigitalOcean](https://www.digitalocean.com/)
+- A record & CNAME record 比較
+  + [Choosing between alias and non-alias records
+](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html) 
+  + [Differences Between A and CNAME Records](https://support.dnsimple.com/articles/differences-a-cname-records/) 
