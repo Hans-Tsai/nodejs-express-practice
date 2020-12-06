@@ -61,3 +61,9 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 ### Chapter 20
 - Debug相關
   + [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
+
+### Chapter 21
+- 域名(Domain)註冊服務
+  + [Amazon Route 53](https://aws.amazon.com/tw/route53/)
+  + [Name.com](https://www.name.com/en)
+  + [Namecheap.com](https://www.namecheap.com/)
