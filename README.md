@@ -72,4 +72,12 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 - A record & CNAME record 比較
   + [Choosing between alias and non-alias records
 ](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html) 
-  + [Differences Between A and CNAME Records](https://support.dnsimple.com/articles/differences-a-cname-records/) 
+  + [Differences Between A and CNAME Records](https://support.dnsimple.com/articles/differences-a-cname-records/)
+- CI/CD 服務
+  + [AWS CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
+  + [Microsoft Azure Web Apps](https://azure.microsoft.com/en-us/services/app-service/web/)
+  + [Google Cloud Build](https://cloud.google.com/cloud-build)
+  + [Travis CI](https://travis-ci.org/)
+  + [CircleCI](https://circleci.com/)
+  + [Jenkins](https://www.jenkins.io/)
+  + [Semaphore](https://semaphoreci.com/)
