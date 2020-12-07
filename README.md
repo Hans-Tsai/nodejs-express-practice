@@ -85,4 +85,25 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
 # Chapter 22
 - 例行性QA檢查服務
   + [Google Webmaster Tools](https://developers.google.com/search) 
-  + [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) 
+  + [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster)
+
+# Chapter 23
+- 官方網站
+  + [Node.js](https://nodejs.org/en/)
+  + [NPM](https://docs.npmjs.com/)
+  + [Express.js](https://expressjs.com/) 
+- 其他資源
+  + Javascript.CSS.HTML 相關的
+    * [Mozilla Developer Network(MDN)](https://developer.mozilla.org)
+    * [w3schools](https://www.w3schools.com/)
+    * [ECMAScript 語言標準規範](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+    * [Javascript 跨瀏覽器的相容性統整表-by kangax](http://kangax.github.io/compat-table/es6/)
+  + HTML5 相關的
+    * [DIVE INTO HTML5-by Mark Pilgrim](http://diveintohtml5.info/)
+    * [HTML5: The Living Standard-by WHATWG](https://html.spec.whatwg.org/dev/)
+  + HTML.CSS 相關的
+    * [World Wide Web Consortium(W3C)](https://www.w3.org/)
+  + 免費訂閱最新電子期刊 (by E-mail)
+    * [Javascript Weekly](https://javascriptweekly.com/) 
+    * [Node Weekly](https://nodeweekly.com/) 
+    * [HTML5 Weekly](https://frontendfoc.us/) 
