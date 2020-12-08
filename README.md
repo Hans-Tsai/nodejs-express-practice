@@ -106,4 +106,10 @@ The [Chapter 6 Example](ch06/README.md) uses small examples to demonstrate vario
   + 免費訂閱最新電子期刊 (by E-mail)
     * [Javascript Weekly](https://javascriptweekly.com/) 
     * [Node Weekly](https://nodeweekly.com/) 
-    * [HTML5 Weekly](https://frontendfoc.us/) 
+    * [HTML5 Weekly](https://frontendfoc.us/)
+- Stack Overflow
+  + [Welcome to Stack Overflow](https://stackoverflow.com/tour)
+  + [Stack Overflow Help Center](https://stackoverflow.com/help)
+- NPM registry package
+  + [MIT license](https://opensource.org/licenses/mit-license.php)
+  + [GNU General Public License version 3 (GPL授權)](https://opensource.org/licenses/gpl-3.0.html)
